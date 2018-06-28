@@ -4,7 +4,7 @@ This repo was created to document my first use of Bootstrap. This code is obviou
 <h2>Purpose</h2>
 The purpose of this index.html code is for the elements of the page to remain where they are even if the webpage is being resized. This allows for elements to be more easily hidden when the webpage gets smaller and no distortion effect to occur due to the window being resized.
 <h2>Installation</h2>
-$git clone --recursive https://github.com/jzhong653/Templar-Game
+$git clone --recursive https://github.com/jzhong653/TestofBootstrap
 <br>
 <br>
 <br>
